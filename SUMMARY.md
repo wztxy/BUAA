@@ -5,3 +5,9 @@
 ## 序 <a href="#preamble" id="preamble"></a>
 
 * [声明](preamble/declaration.md)
+
+## 学校信息 <a href="#info" id="info"></a>
+
+* [基本概况](info/overview.md)
+* [校区地址](info/address.md)
+* [校区地图](info/map.md)
