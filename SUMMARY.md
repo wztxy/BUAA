@@ -11,3 +11,5 @@
 * [基本概况](info/overview.md)
 * [校区地址](info/address.md)
 * [校区地图](info/map.md)
+* [学生宿舍](info/dormitory.md)
+* [系号、学院与书院](info/code-and-college.md)
